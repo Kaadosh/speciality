@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 const TopMenu = () => {
     return (
-        <div className='hidden lg:flex lg:justify-center mt-4 mb-4 place-self-auto '>
+        <div className='hidden xl:flex xl:justify-center mt-4 mb-4 place-self-auto '>
         <ul className=' flex gap-6 mr-24 '>
             <li>
             <Link href='/'>Дом</Link>

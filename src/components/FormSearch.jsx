@@ -17,7 +17,7 @@ function FormSearch() {
             alt="search"
             width={22}
             height={22}
-            className="text-black pr-1 sm:w-6 sm:h-6 lg:hidden" 
+            className="text-black pr-1 sm:w-6 sm:h-6 xl:hidden" 
           />
           <Button extraClasses='sm:hidden w-[75px] h-11 mr-4 sm:relative sm:right-[-2.5rem] sm:top-[-0.75rem] sm:flex sm:items-center' />
         </div>
